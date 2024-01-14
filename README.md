@@ -1,2 +1,13 @@
-# exercise1
-Managing a project in GitHub
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
